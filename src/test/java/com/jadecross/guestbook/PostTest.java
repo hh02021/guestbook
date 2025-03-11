@@ -8,4 +8,4 @@ package com.jadecross.guestbook;
  post.setName("DEVOPS");
  assertEquals("DEVOPS", post.getName());
  }
-
+}
